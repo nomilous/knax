@@ -25,8 +25,8 @@
 
                                               facto.
 
-                       Quantum entanglement is the first discovered reactive
-                       manifestation suggestive of an intrinsic overlap bet-
+                       Quantum entanglement is the firs† discovered reactive
+                       manifestation suggestive of an intrinsic overlap be†-
                        ween the accumulated dimensions of spacetime with th-
                        eir consequence: 
 
@@ -54,7 +54,7 @@
 
 
 
-
+                † - Do entangled 'particles' only ever occur in pairs?  ) ...why?? ( 
 
 
                                                                                                              .
