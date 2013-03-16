@@ -25,10 +25,10 @@
 
                                               facto.
 
-                       Quantum entanglement is the firs† discovered reactive
-                       manifestation suggestive of an intrinsic overlap be†-
-                       ween the accumulated dimensions of spacetime with th-
-                       eir consequence: 
+                        Quantum entanglement is the firs† discovered reactive
+                        manifestation suggestive of an intrinsic overlap be†-
+                        ween the accumulated dimensions of spacetime with th-
+                        eir consequence: 
 
                                            the Dimensions of Probability
 
@@ -54,8 +54,8 @@
 
 
 
-                         † - Do entangled 'particles' only ever occur in pairs?  
-                         † - Why (not)? 
+                       † - Do entangled 'particles' only ever occur in pairs?  
+                       † - Why (not)? 
 
                                                                                                              .
 </pre>
