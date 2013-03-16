@@ -17,7 +17,7 @@
 
                                                ipso.
 
-                               Never look a gift tooth in the cavity.
+                              Never touch a gift tooth in the cavity.
 
 
 
