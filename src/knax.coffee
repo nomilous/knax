@@ -13,13 +13,12 @@ module.exports = Knax =
             unless typeof caller == 'undefined'
 
                 #
-                # no caller, loading local plugin
+                # got caller, loading local plugin
                 #
 
-                path = caller.file.split('/') # --windows (?)
-                path.pop()
-                path = path.join '/'
-                #console.log "PATH:", path
+                path = require('path').dirname caller.file
+                
+                # console.log "PATH:", path
 
 
             directory = "#{path}/#{i.pluralize definition.category}"
