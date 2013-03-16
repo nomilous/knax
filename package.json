@@ -11,7 +11,9 @@
   ],
   "repository": "git@github.com:nomilous/knax.git",
   "main": "./lib/knax",
-  "dependencies": {},
+  "dependencies": {
+    "inflection": "~1.2.5"
+  },
   "devDependencies": {
     "nez": "0.0.2",
     "should": "~1.2.2"

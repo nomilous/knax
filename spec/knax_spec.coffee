@@ -1,7 +1,11 @@
-require('nez').realize 'Knax', (Knax, test, context) -> 
+require('nez').realize 'Knax', (Knax, test, can, should) -> 
 
-    context 'in CONTEXT', (does) ->
+    can 'load locally defined plugins by category', (done) ->
 
-        does 'an EXPECTATION', (done) ->
+        plugin = Knax.load
 
-            test done
+            category: 'category'
+            class: 'example_plugin'
+
+        plugin.should.equal require '../lib/categories/example_plugin'
+        test done
