@@ -15,7 +15,7 @@
 
 
 
-                                               ipso.
+                                              ipso.
 
                               Never touch a gift tooth in the cavity.
 
@@ -27,8 +27,8 @@
 
                         Quantum entanglement is the firs† discovered reactive
                         manifestation suggestive of an intrinsic overlap be†-
-                        ween the accumulated dimensions of spacetime with th-
-                        eir consequence: 
+                        ween the accumulated dimensions of spacetime and the-
+                        ir consequence: 
 
                                            the Dimensions of Probability
 
