@@ -1,3 +1,4 @@
+require 'fing'
 i = require 'inflection'
 
 module.exports = Knax =
@@ -6,9 +7,22 @@ module.exports = Knax =
 
         unless typeof definition.category == 'undefined'
 
-            directory = i.pluralize definition.category
+            path   = '.'
+            caller = fing.trace()[1]
 
-            console.log directory
+            unless typeof caller == 'undefined'
+
+                #
+                # no caller, loading local plugin
+                #
+
+                path = caller.file.split('/') # --windows (?)
+                path.pop()
+                path = path.join '/'
+                #console.log "PATH:", path
+
+
+            directory = "#{path}/#{i.pluralize definition.category}"
 
             unless definition.class 
 
@@ -16,7 +30,7 @@ module.exports = Knax =
 
             try
 
-                module = "./#{directory}/#{definition.class}"
+                module = "#{directory}/#{definition.class}"
                 return require module
 
             catch error
