@@ -54,8 +54,8 @@
 
 
 
-                † - Do entangled 'particles' only ever occur in pairs?  ) ...why?? ( 
-
+                         † - Do entangled 'particles' only ever occur in pairs?  
+                         † - Why (not)? 
 
                                                                                                              .
 </pre>
