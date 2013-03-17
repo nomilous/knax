@@ -1,7 +1,7 @@
 knax
 ====
 
-Dynamic Plugin Module Loader
+Dynamic Module Loader
 
 ### Current Verision
 
