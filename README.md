@@ -5,7 +5,7 @@ Dynamic Module Loader
 
 ### Current Verision
 
-0.0.1
+0.0.2
 
 ### Usage (local)
 
