@@ -1,4 +1,3 @@
-require 'fing'
 i = require 'inflection'
 
 module.exports = Knax =
